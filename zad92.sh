@@ -1,7 +1,7 @@
 #!/bin/bash
 # 
 # Zadanie 92 
-# Filip Mazur
+# MegaKruk
 # 27.04.2018 11:15 TN 
 # 
 # Skrypt sprawdza, czy podany w argumencie plik ma rozszerzenie .json,
