@@ -1,7 +1,7 @@
 #!/bin/bash
 # 
 # Zadanie 86 
-# Filip Mazur
+# MegaKruk
 # 27.04.2018 11:15 TN 
 # 
 # Skrypt przekazuje jako plik tekstowy wynik polecenia ps aux, przekazuje do awka,
