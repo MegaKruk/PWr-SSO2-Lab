@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 #
 # Zadanie Q3
-# Filip Mazur
+# MegaKruk
 # 11.05.2018 11:15 TN
 #
 # Skrypt najpierw sprawdza, czy podano dwa argumenty (!= 3, bo "argumentem 0"
