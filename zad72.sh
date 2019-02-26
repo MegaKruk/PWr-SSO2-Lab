@@ -1,7 +1,7 @@
 #!/bin/bash
 # 
 # Zadanie 72
-# Filip Mazur
+# MegaKruk
 # 19.04.2018 11:15 TN 
 # 
 # Skrypt najpierw wyswietli ilosc uzytkownikow, a nastepnie jesli w argumencie podano nazwe katalogu
