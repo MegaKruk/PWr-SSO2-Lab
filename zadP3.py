@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 #
 # Zadanie P3
-# Filip Mazur
+# MegaKruk
 # 11.05.2018 11:15 TN
 #
 # Skrypt przyjmuje 2 katalogi jako argumenty, tworzy liste plikow z katalogu 1,
