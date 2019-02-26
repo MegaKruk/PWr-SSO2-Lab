@@ -1,7 +1,7 @@
 #!/bin/bash 
 # 
 # Zadanie 23 
-# Filip Mazur
+# MegaKruk
 # 26.03.2018 11:15 TN 
 # 
 # W komentarzu napisałem jak stworzyłem linki
