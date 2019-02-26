@@ -1,5 +1,5 @@
 # Zadanie R2
-# Filip Mazur
+# MegaKruk
 # 16.05.2018 11:15 TN
 #
 # Skrypt przechwytuje wyjście polecenia "cat sensors.txt" w formie binarnej, po czym iteruje
