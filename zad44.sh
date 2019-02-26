@@ -1,7 +1,7 @@
 #!/bin/bash
 # 
 # Zadanie 44
-# Filip Mazur
+# MegaKruk
 # 19.04.2018 11:15 TN 
 # 
 # Skrypt znajduje w katalogu podanym przez parametr ile jest
