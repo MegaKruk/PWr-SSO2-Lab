@@ -1,7 +1,7 @@
 #!/bin/bash
 # 
 # Zadanie 32 
-# Filip Mazur
+# MegaKruk
 # 26.03.2018 11:15 TN 
 # 
 # Przy drugim wywołaniu skryptu wpadamy w wariant <ln [OPTION]... TARGET... DIRECTORY (3rd form)>
