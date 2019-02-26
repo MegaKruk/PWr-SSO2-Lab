@@ -8,7 +8,7 @@
 #nazwach w obu katalogach.
 #Udało mi się rozwiązać zadanie w 1 linijce tak jak chciałem :)
 
-#Filip Mazur 226018
+#MegaKruk
 #16.03.18 11:15
 
 find "$1" "$2" -printf '%P\n' | sort | uniq -d
