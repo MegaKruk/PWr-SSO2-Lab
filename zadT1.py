@@ -1,5 +1,5 @@
 # Zadanie T1
-# Filip Mazur
+# MegaKruk
 # 15.06.2018 11:15 TN
 #
 # Skrypt na początku tworzy trzy wzorce potrzebne do zidentyfikowania numeru telefonu.
