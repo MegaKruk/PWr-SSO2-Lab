@@ -1,5 +1,5 @@
 # Zadanie S1
-# Filip Mazur
+# MegaKruk
 # 16.05.2018 11:15 TN
 #
 # Skrypt przechwytuje wyjście polecenia "netstat -tulpn" w formie binarnej, po czym  iteruje po kolejnych
